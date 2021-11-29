@@ -14,6 +14,6 @@ knowledge systems of inference. In the long run, I want to solve problems in mac
 ### [Research](https://codeviser.github.io/research.html)
 
 ### Certifications
-Deep Learning Specialization by _deeplearning.ai_, ML _by Andrew Ng_, Oracle JAVA SE Programmer _by Oracle University_ and [many more](https://www.linkedin.com/in/shubhamchowdhary/)
+Deep Learning Specialization by _deeplearning.ai_, ML _by Andrew Ng_, Oracle JAVA SE Programmer _by Oracle University_ and many more listed [here](https://www.linkedin.com/in/shubhamchowdhary/)
 
 [_Contact Me_](https://codeviser.github.io/about/contact-me.html)
