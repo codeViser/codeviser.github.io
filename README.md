@@ -1,3 +1,4 @@
+<img src="photoId.jpg" alt="drawing" width="200"/>
 # Shubham Chowdhary
 
 *Interests*: Machine Learning (NLP/NLU), Algos. & Optimization, Probability & Stats, HPC Systems
