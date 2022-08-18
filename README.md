@@ -1,11 +1,9 @@
 <img src="photoId.jpg" alt="drawing" width="200"/>
 # Shubham Chowdhary
 
-*Interests*: Machine Learning (NLP/NLU), Algos. & Optimization, Probability & Stats, HPC Systems
+*Interests*: Cognitive Computing (NLP/NLU, RL), Computational Social Science, Statistical Learning Theory, Algorithms
 
-_Aspiring researcher in building intelligent
-language systems that scale across large and distributed systems to facilitate fast and reliable decision-making. Interested in research towards unbiased, interpretable, and robust
-knowledge systems of inference. In the long run, I want to solve problems in machine cognition & AGI._
+_Pursuing research in designing & explaining intelligent systems in social/game-theoretic settings. I desire to push the field further for unbiased, interpretable, and robust knowledge systems of inference facilitating decision making. In the long run, I wish to deepen my contribution to neural machine cognition, behavioral estimates, and AGI._
 
 - [Stanford AI Professional](https://online.stanford.edu/programs/artificial-intelligence-professional-program) _2020 & 2021_
 - Work at [Tower Research Capital](https://www.tower-research.com/) as _Software Developer_, _2018-present_
