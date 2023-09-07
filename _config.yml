@@ -20,14 +20,14 @@
 
 title: ViseHub
 email: shubham.note3@gmail.com
-description: Hey there! If you haven't landed on this page by accident, chances are that you already met CodeViser! ViseHub is his honest effort in highlighting his academic, professional, and idiosyncratic journey thus far!>- # this means to ignore newlines until "baseurl:"
+description: Everything new about CodeViser # Hey there! If you haven't landed on this page by accident, chances are that you already met CodeViser! ViseHub is his honest effort in highlighting his academic, professional, and idiosyncratic journey thus far! # >- this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of` your site, e.g. /blog
 url: "https://codeviser.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: codeviser_
 github_username:  codeviser
 
 # Build settings
-# theme: minima
+#theme: jekyll-theme-slate
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
   - jekyll-feed
