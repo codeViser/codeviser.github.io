@@ -5,22 +5,29 @@
 layout: default # home
 ---
 
-<img src="photoId.jpg" alt="drawing" width="200"/>
-# Shubham Chowdhary
+<!-- <img src="photoId.jpg" alt="drawing" width="200"/> -->
+# Shubham (@codeviser)
 
-*Interests*: Cognitive Computing (NLP/NLU, RL), Computational Social Science, Statistical Learning Theory, Algorithms
+_Hey there! If you haven't landed on this page by accident, chances are that you already met CodeViser! ViseHub is his honest effort in highlighting his academic, professional, and idiosyncratic journey thus far!_
 
-_Pursuing research in designing & explaining intelligent systems in social/game-theoretic settings. I desire to push the field further for unbiased, interpretable, and robust knowledge systems of inference facilitating decision making. In the long run, I wish to deepen my contribution to neural machine cognition, behavioral estimates, and AGI._
+### Focal Interests & Aspirations
+Statistical Learning, Optimization & Control, Reinforcement Learning, Cognitive Dynamics & Game Theory, Econometrics
 
-- M.Sc. \(Thesis\) at [Swiss Federal Institute of Technology \(ETH Zurich\)](https://ethz.ch/en.html) _in [Computer Science \(Machine Intelligence & Theoretical CS\)](https://inf.ethz.ch/)_, _Fall 22_
-- [Stanford AI Professional](https://online.stanford.edu/programs/artificial-intelligence-professional-program) _2020 & 2021_
-- Work at [Tower Research Capital](https://www.tower-research.com/) as _Software Developer_, _2018-present_
-- BTech Graduate from [Indian Institute of Technology, Roorkee](https://new.iitr.ac.in/Main/pages/_en_Indian_Institute_of_Technology_Roorkee__en_.html) _in [Electrical](https://ee.iitr.ac.in/) and [Computer Science](https://cse.iitr.ac.in/)_, _Class of 2018_
+> Pursuing mathematical research in designing & explaining intelligent systems in social/game-theoretic settings, I wish to create unbiased, interpretable, and robust knowledge systems of inference facilitating decisions. In the long run, I desire to make seminal contributions in machine cognition, guarantees in behavioral estimates, and fundamentals of AGI.
 
-### [Projects](https://codeviser.github.io/projects.html)
-### [Research](https://codeviser.github.io/research.html)
+### Education
+- **Masters** at [ETH Zurich](https://ethz.ch/en.html) _in [CS \(dual major: stat/ML, theoretic CS\)](https://inf.ethz.ch/)_, _2022_
+- **Professional student** at [Stanford AI](https://online.stanford.edu/programs/artificial-intelligence-professional-program) _2020 & 2021_
+- **Bachelors** at [IIT, Roorkee](https://new.iitr.ac.in/Main/pages/_en_Indian_Institute_of_Technology_Roorkee__en_.html) _in [Computer Science](https://cse.iitr.ac.in/) and [Electrical](https://ee.iitr.ac.in/) (specialize in Control Theory)_, _2014-2018_
 
-### Certifications
-Deep Learning Specialization by _deeplearning.ai_, ML _by Andrew Ng_, Oracle JAVA SE Programmer _by Oracle University_ and many more listed [here](https://www.linkedin.com/in/shubhamchowdhary/)
+### Industry
+- Market data **dev** at quant firm, [Tower Research Capital](https://www.tower-research.com/), _2018-2022_
+- **Data Analyst** on customer acquisition maximization at [AmEX](https://www.americanexpress.com/en-us/careers/career-areas/risk-and-data-analytics/), _2017_
 
-[_Contact Me_](https://codeviser.github.io/about/contact-me.html)
+### [Projects and Reseach Work](https://codeviser.github.io/projects.html) are seasonally updated!
+
+<!--  TODO (schowdhary): Create a one stop contact list and update page on projects  -->
+<!-- ### Certifications -->
+<!-- Deep Learning Specialization by _deeplearning.ai_, ML _by Andrew Ng_, Oracle JAVA SE Programmer _by Oracle University_ and many more listed [here](https://www.linkedin.com/in/shubhamchowdhary/) -->
+
+<!-- [_Contact Me_](https://codeviser.github.io/about/contact-me.html) -->
