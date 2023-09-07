@@ -26,8 +26,11 @@ url: "https://codeviser.github.io" # the base hostname & protocol for your site,
 twitter_username: codeviser_
 github_username:  codeviser
 logo: /assets/circularPhotoID.png
-
-# Build settings
+show_connects: true
+github:
+  linkedin_url: https://www.linkedin.com/in/shubhamchowdhary/
+  x_url: https://twitter.com/codeviser_
+  gmail_url: mailto:shubham.note3@gmail.com
 #theme: jekyll-theme-slate
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:

@@ -26,8 +26,6 @@ Statistical Learning, Optimization & Control, Reinforcement Learning, Cognitive 
 
 ### [Projects and Reseach Work](https://codeviser.github.io/projects.html) are seasonally updated!
 
-<!--  TODO (schowdhary): Create a one stop contact list and update page on projects  -->
+<!--  TODO (schowdhary): Create/update page on projects  -->
 <!-- ### Certifications -->
 <!-- Deep Learning Specialization by _deeplearning.ai_, ML _by Andrew Ng_, Oracle JAVA SE Programmer _by Oracle University_ and many more listed [here](https://www.linkedin.com/in/shubhamchowdhary/) -->
-
-<!-- [_Contact Me_](https://codeviser.github.io/about/contact-me.html) -->
