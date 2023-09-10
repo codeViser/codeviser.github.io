@@ -4,4 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Something about life.
+Hobbies, recreation, and more.
+

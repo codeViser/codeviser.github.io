@@ -4,7 +4,28 @@ title: Projects & Research
 permalink: /work/
 ---
 
-Several major academic and professional projects throughout my career are broadly summarized.
+Several major academic and professional projects throughout my career are broadly summarized as,
+
+- [Learning/Game Theoretic](/work/#theoretic): ViT Research, Bayesian Prior via DNN-BNN transfer, Color Describe, PAG based Mechanism Design for Matrix Games, Fairness in SN
+- [Predictive Analytics](/work/#analytics): DAA, trading analytics
+- [Software Development](/work/#dev) for Trading
+- [Vision/Recognition](/work/#vision): Char Recog in Banks, Road Segmentation
+- [Language Modelling/Understanding](/work/#nlp): Character MT, Sentiment Analysis, Word Relatedness, Sentribute
+- [Social Impact](/work/#social):  AR Military Dev,  Violence Detect
+- [Signal Processing](/work/#signals): FIR Filter
+
+## Learning/Game Theoretic <a name="theoretic"></a>
+
+### Hessian View of loss landscape in Vision Transformers
+*Research Assisstance under [Sidak Pal Singh](https://scholar.google.ch/citations?user=c59mPS4AAAAJ&hl=en), [Dr. Thomas Hofmann](https://scholar.google.ch/citations?user=T3hAyLkAAAAJ&hl=en) at [Data Analytics Lab](https://da.inf.ethz.ch/)* <br><br/>
+Considering transformers produce powerful learning representations, we explore their parametric loss landscape encoded in approximate second-order curvature. We crucially ask, what meaningful subset of parameters govern convergence in them?
+
+## Predictive Analytics <a name="analytics"></a>
+## Software Development for Trading <a name="dev"></a>
+## Vision/Recognition <a name="vision"></a>
+## Language Modelling/Understanding <a name="nlp"></a>
+## Social Impact <a name="social"></a>
+## Signal Processing <a name="signals"></a>
 
 <!-- # Projects -->
 <!-- - [Color-Describe](https://github.com/codeViser/color-describe/blob/main/colors-investigate.ipynb), Grounded text generator to distinguish between colors based on [Monroe et al. (2017)](https://transacl.org/ojs/index.php/tacl/article/view/1142) -->
