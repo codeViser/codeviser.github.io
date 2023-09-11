@@ -37,6 +37,10 @@ h3, h4, h5, h6 {
     color:#494949;
 }
 
+h3 {
+    line-height: 0.0
+}
+
 a {
     color:#267CB9;
     text-decoration:none;
@@ -56,6 +60,19 @@ a small {
 
 a:hover small {
     color:#777;
+}
+
+.expimg:hover{
+    color: #424242;
+    -webkit-transition: all .3s ease-in;
+    -moz-transition: all .3s ease-in;
+    -ms-transition: all .3s ease-in;
+    -o-transition: all .3s ease-in;
+    transition: all .3s ease-in;
+    opacity: 1;
+    transform: scale(4.15);
+    -ms-transform: scale(4.15); /* IE 9 */
+  -webkit-transform: scale(4.15); /* Safari and Chrome */
 }
 
 .wrapper {

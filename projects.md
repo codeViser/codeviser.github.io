@@ -17,8 +17,20 @@ Several major academic and professional projects throughout my career are broadl
 ## Learning/Game Theoretic <a name="theoretic"></a>
 
 ### Hessian View of loss landscape in Vision Transformers
-*Research Assisstance under [Sidak Pal Singh](https://scholar.google.ch/citations?user=c59mPS4AAAAJ&hl=en), [Dr. Thomas Hofmann](https://scholar.google.ch/citations?user=T3hAyLkAAAAJ&hl=en) at [Data Analytics Lab](https://da.inf.ethz.ch/)* <br><br/>
-Considering transformers produce powerful learning representations, we explore their parametric loss landscape encoded in approximate second-order curvature. We crucially ask, what meaningful subset of parameters govern convergence in them?
+*Research Assisstance under [Sidak Pal Singh](https://scholar.google.ch/citations?user=c59mPS4AAAAJ&hl=en), [Dr. Thomas Hofmann](https://scholar.google.ch/citations?user=T3hAyLkAAAAJ&hl=en) at [Data Analytics Lab](https://da.inf.ethz.ch/), 2023* <br><br/>
+Considering transformers produce powerful learning representations, we explore their parametric loss landscape encoded in approximate second-order curvature. We crucially ask, *what meaningful subset of parameters make them so powerful?*
+
+### Exploring Mechanism-Aware Cooperation Intent<sup>[\[paper\]](https://drive.google.com/file/d/1HZA_IkKm7508LSu-rAzns41mu_8FfeUK/view)<sup/>
+*Course Project supervised by [Vinzenz Thoma](https://scholar.google.com/citations?user=2ZT371MAAAAJ&hl=en), [Zebang Shen](https://scholar.google.com/citations?user=klqzFvgAAAAJ&hl=en) at [Optimization & Decision Intelligence Group](https://odi.inf.ethz.ch/), 2023* <br><br/>
+<img src="/assets/MG.jpg" class="" align="right" alt="Prisoner's Dilemma Game" width="200px" height=auto/> In a repeated Matrix Game between two optimal agents, mutual defection strategy is often an undesirable, yet the only outcome. We propose an improved learning mechanism that enforces moral conduct in these perceptive agents by promoting mutual co-operation and joint reward maximization. <br><br/>
+
+### Priors from Deep Networks for Bayesian Deep Learning<sup>[\[paper\]](https://drive.google.com/file/d/1_6mhUEmLygu4_a83CFNAgNNbZz0bKJpj/view)<sup/>
+*Course Project supervised by [Lorenzo Noci](https://scholar.google.com/citations?user=VZ__1r0AAAAJ&hl=en) at [Data Analytics Lab](https://da.inf.ethz.ch/), 2022*  <br><br/>
+<img src="/assets/TILDA.png" class="expimg" align="left" alt="TILDA Model" width="200px" height=auto/> While deep neural networks are fundamental architectures for learning tasks, their lack of uncertainty estimation motivated us to design TILDA: a mechanism to encode information from deep networks as dirichlet priors for improved uncertainty quantification and performance in Bayesian Neural Networks. <br><br/>
+
+### Optimal Transport for Social Influence Maximization<sup>[\[report\]](https://drive.google.com/file/d/1gd6yv50lifP72L3zIxAK5I0cQC7OJb39/view)<sup/>
+*Research Project supervised by [Nicolas Lanzetti](https://scholar.google.ch/citations?user=gWJV1rQAAAAJ&hl=en), [Prof. Giulia De Pasquale](https://scholar.google.com/citations?user=61JYIhYAAAAJ&hl=it), [Prof. Florian Dörfler](https://scholar.google.com/citations?user=P2kxZ3MAAAAJ&hl=en), [Prof. Andreas Krause](https://scholar.google.com/citations?user=eDHv58AAAAAJ&hl=en) at [Automatic Control Laboratory](https://control.ee.ethz.ch/), 2023*  <br><br/>
+<img src="/assets/sim.png" class="expimg" align="right" alt="OT SIM Pipeline" width="200px" height=auto/> Information propagation in complex social networks often leads to its disproportionate access across different groups within the network. To ensure fairness in information access across groups while maximizing its outreach, we propose an iterative metric characterized by Optimal Transport cost between information distribution across groups.
 
 ## Predictive Analytics <a name="analytics"></a>
 ## Software Development for Trading <a name="dev"></a>
