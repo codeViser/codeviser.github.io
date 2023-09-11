@@ -9,6 +9,24 @@ layout: base
 <br/><br/>
   <div class="post-content">
     {{ content }}
+
+     <script>
+         var coll = document.getElementsByClassName("collapsible");
+         var i;
+
+         for (i = 0; i < coll.length; i++) {
+             coll[i].addEventListener("click", function() {
+                 this.classList.toggle("active");
+                 var ccontent = this.nextElementSibling;
+                 if (ccontent.style.display === "block") {
+                     ccontent.style.display = "none";
+                 } else {
+                     ccontent.style.display = "block";
+                 }
+             });
+         }
+     </script>
+
   </div>
 
 </article>

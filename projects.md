@@ -14,7 +14,12 @@ Several major academic and professional projects throughout my career are broadl
 - [Social Impact](/work/#social):  AR Military Dev,  Violence Detect
 - [Signal Processing](/work/#signals): FIR Filter
 
-## Learning/Game Theoretic <a name="theoretic"></a>
+<!-- ## Learning/Game Theoretic <a name="theoretic"></a> -->
+<div>
+<button type="button" class="collapsible"> Learning/Game Theoretic <a name="theoretic"></a></button>
+
+<div class="content" markdown="1">
+<br><br/>
 
 ### Hessian View of loss landscape in Vision Transformers
 *Research Assisstance under [Sidak Pal Singh](https://scholar.google.ch/citations?user=c59mPS4AAAAJ&hl=en), [Dr. Thomas Hofmann](https://scholar.google.ch/citations?user=T3hAyLkAAAAJ&hl=en) at [Data Analytics Lab](https://da.inf.ethz.ch/), 2023* <br><br/>
@@ -31,6 +36,14 @@ Considering transformers produce powerful learning representations, we explore t
 ### Optimal Transport for Social Influence Maximization<sup>[\[report\]](https://drive.google.com/file/d/1gd6yv50lifP72L3zIxAK5I0cQC7OJb39/view)<sup/>
 *Research Project supervised by [Nicolas Lanzetti](https://scholar.google.ch/citations?user=gWJV1rQAAAAJ&hl=en), [Prof. Giulia De Pasquale](https://scholar.google.com/citations?user=61JYIhYAAAAJ&hl=it), [Prof. Florian Dörfler](https://scholar.google.com/citations?user=P2kxZ3MAAAAJ&hl=en), [Prof. Andreas Krause](https://scholar.google.com/citations?user=eDHv58AAAAAJ&hl=en) at [Automatic Control Laboratory](https://control.ee.ethz.ch/), 2023*  <br><br/>
 <img src="/assets/sim.png" class="expimg" align="right" alt="OT SIM Pipeline" width="200px" height=auto/> Information propagation in complex social networks often leads to its disproportionate access across different groups within the network. To ensure fairness in information access across groups while maximizing its outreach, we propose an iterative metric characterized by Optimal Transport cost between information distribution across groups.
+
+</div>
+</div>
+
+
+
+
+
 
 ## Predictive Analytics <a name="analytics"></a>
 ## Software Development for Trading <a name="dev"></a>
@@ -53,4 +66,3 @@ Considering transformers produce powerful learning representations, we explore t
 <!-- subtleties”. Paper Draft, 2021 -->
 <!-- - [_Kumar, P. Mittal, A. Reddy, K.U.K. Chowdhary, S. Kumar, V. Pratap, R._ “Design & Verification of 3-Phase Sequence -->
 <!-- Decomposer on Re-configurable Hardware”. 10th ICCCNT, pp. 104-108, 2019](https://ieeexplore.ieee.org/document/8944848), _Undergrad Work (2017-18)_ -->
-
