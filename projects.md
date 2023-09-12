@@ -6,17 +6,16 @@ permalink: /work/
 
 Several major academic and professional projects throughout my career are broadly summarized as,
 
-- [Learning/Game Theoretic](/work/#theoretic): ViT Research, Bayesian Prior via DNN-BNN transfer, Color Describe, PAG based Mechanism Design for Matrix Games, Fairness in SN
-- [Predictive Analytics](/work/#analytics): DAA, trading analytics
-- [Software Development](/work/#dev) for Trading
-- [Vision/Recognition](/work/#vision): Char Recog in Banks, Road Segmentation
-- [Language Modelling/Understanding](/work/#nlp): Character MT, Sentiment Analysis, Word Relatedness, Sentribute
-- [Social Impact](/work/#social):  AR Military Dev,  Violence Detect
-- [Signal Processing](/work/#signals): FIR Filter
+- <a class="smoothscroll" data-link="theoretic" href="#theoretic">Learning/Game Theoretic</a> focuses on core mathematical aspects in learning systems, often involving **optimization, probability theory, and graph theory**.
+- <a class="smoothscroll" data-link="analytics" href="#analytics">Predictive Analytics</a>: DAA, trading analytics
+- <a class="smoothscroll" data-link="dev" href="#dev">Software Dev for Algo Trading</a>
+- <a class="smoothscroll" data-link="vision" href="#vision">Vision/Recognition</a>: Char Recog in Banks, Road Segmentation
+- <a class="smoothscroll" data-link="nlp" href="#nlp">Language Modelling/Understanding</a>: Character MT, Sentiment Analysis, Word Relatedness, Sentribute, Color Describe
+- <a class="smoothscroll" data-link="social" href="#social">Social Impact</a>:  AR Military Dev,  Violence Detect
+- <a class="smoothscroll" data-link="signals" href="#signals">Signal Processing</a>: FIR Filter
 
-<!-- ## Learning/Game Theoretic <a name="theoretic"></a> -->
-<div>
-<button type="button" class="collapsible"> Learning/Game Theoretic <a name="theoretic"></a></button>
+<div id="theoretic">
+    <button type="button" class="collapsible">Learning/Game Theoretic</button>
 
 <div class="content" markdown="1">
 <br><br/>
@@ -41,16 +40,80 @@ Considering transformers produce powerful learning representations, we explore t
 </div>
 
 
+<div id="analytics">
+<button type="button" class="collapsible">Predictive Analytics</button>
+
+<div class="content" markdown="1">
+<br><br/>
 
 
 
+</div>
+</div>
 
-## Predictive Analytics <a name="analytics"></a>
-## Software Development for Trading <a name="dev"></a>
-## Vision/Recognition <a name="vision"></a>
-## Language Modelling/Understanding <a name="nlp"></a>
-## Social Impact <a name="social"></a>
-## Signal Processing <a name="signals"></a>
+
+
+<div id="dev">
+<button type="button" class="collapsible">Software Dev in Algo Trading</button>
+
+<div class="content" markdown="1">
+<br><br/>
+
+
+
+</div>
+</div>
+
+
+
+<div id="vision">
+<button type="button" class="collapsible">Vision/Recognition</button>
+
+<div class="content" markdown="1">
+<br><br/>
+
+
+
+</div>
+</div>
+
+
+
+<div id="nlp">
+<button type="button" class="collapsible">Language Modelling/Understanding</button>
+
+<div class="content" markdown="1">
+<br><br/>
+
+
+
+</div>
+</div>
+
+
+<div id="social">
+<button type="button" class="collapsible">Social Impact</button>
+
+<div class="content" markdown="1">
+<br><br/>
+
+
+
+</div>
+</div>
+
+
+
+<div id="signals">
+<button type="button" class="collapsible">Signal Processing</button>
+
+<div class="content" markdown="1">
+<br><br/>
+
+
+
+</div>
+</div>
 
 <!-- # Projects -->
 <!-- - [Color-Describe](https://github.com/codeViser/color-describe/blob/main/colors-investigate.ipynb), Grounded text generator to distinguish between colors based on [Monroe et al. (2017)](https://transacl.org/ojs/index.php/tacl/article/view/1142) -->
