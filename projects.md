@@ -6,7 +6,7 @@ permalink: /work/
 
 Several major academic and professional projects throughout my career are broadly summarized as,
 
-- <a class="smoothscroll" data-link="theoretic" href="#theoretic">Learning/Game Theoretic</a> focuses on core mathematical aspects in learning systems, often involving **optimization, probability theory, and graph theory**.
+- <a class="smoothscroll" data-link="theoretic" href="#theoretic">Learning/Game Theoretic</a> work focuses on core mathematical aspects in learning systems, often involving advanced **optimization, probability theory, and graph theory**.
 - <a class="smoothscroll" data-link="analytics" href="#analytics">Predictive Analytics</a>: DAA, trading analytics
 - <a class="smoothscroll" data-link="dev" href="#dev">Software Dev for Algo Trading</a>
 - <a class="smoothscroll" data-link="vision" href="#vision">Vision/Recognition</a>: Char Recog in Banks, Road Segmentation
@@ -41,12 +41,18 @@ Considering transformers produce powerful learning representations, we explore t
 
 
 <div id="analytics">
-<button type="button" class="collapsible">Predictive Analytics</button>
+<button type="button" class="collapsible">Predictive Analytics<sup>[proprietary]</sup></button>
 
 <div class="content" markdown="1">
 <br><br/>
 
+### Digital Aquisition via Fractional Attribution
+*Data Analysis at [AmEx](https://www.americanexpress.com/en-us/careers/career-areas/risk-and-data-analytics/) Market Research, 2017* <br><br/>
+Probability of conversion of a potential customer in influence from social media, customer targetting, and referral from acquaintances, is jointly modelled under a time-decaying impact of such influence, to optimally allocate contrained funds for a *+8% in regional customer acquisition.*
 
+### Market Data Inferences
+*Market Data Developer at [Tower Research Capital](https://www.tower-research.com/), 2018-2022* <br><br/>
+Hey
 
 </div>
 </div>
