@@ -6,9 +6,9 @@ permalink: /work/
 
 Several major academic and professional projects throughout my career are broadly summarized as,
 
-- <a class="smoothscroll" data-link="theoretic" href="#theoretic">Learning/Game Theoretic</a> work focuses on core mathematical aspects in learning systems, often involving advanced **optimization, probability theory, and graph theory**.
-- <a class="smoothscroll" data-link="analytics" href="#analytics">Predictive Analytics</a>: DAA, trading analytics
-- <a class="smoothscroll" data-link="dev" href="#dev">Software Dev for Algo Trading</a>
+- <a class="smoothscroll" data-link="theoretic" href="#theoretic">Learning/Game Theoretic</a> work focuses on **core mathematical** aspects in learning systems, often involving advanced **optimization, probability theory, and graph theory**.
+- <a class="smoothscroll" data-link="analytics" href="#analytics">Predictive Analytics</a> entails applicative data-driven strategic decision making for front-office operations, involving **statistical modelling** in **Python using Big Data tools**.
+- <a class="smoothscroll" data-link="dev" href="#dev">Software Dev for Algo Trading</a> specializes in **C/C++ based system design** for crucial **low-latency** performance.
 - <a class="smoothscroll" data-link="vision" href="#vision">Vision/Recognition</a>: Char Recog in Banks, Road Segmentation
 - <a class="smoothscroll" data-link="nlp" href="#nlp">Language Modelling/Understanding</a>: Character MT, Sentiment Analysis, Word Relatedness, Sentribute, Color Describe
 - <a class="smoothscroll" data-link="social" href="#social">Social Impact</a>:  AR Military Dev,  Violence Detect
@@ -18,7 +18,7 @@ Several major academic and professional projects throughout my career are broadl
     <button type="button" class="collapsible">Learning/Game Theoretic</button>
 
 <div class="content" markdown="1">
-<br><br/>
+<!-- <br><br/> -->
 
 ### Hessian View of loss landscape in Vision Transformers
 *Research Assisstance under [Sidak Pal Singh](https://scholar.google.ch/citations?user=c59mPS4AAAAJ&hl=en), [Dr. Thomas Hofmann](https://scholar.google.ch/citations?user=T3hAyLkAAAAJ&hl=en) at [Data Analytics Lab](https://da.inf.ethz.ch/), 2023* <br><br/>
@@ -44,15 +44,20 @@ Considering transformers produce powerful learning representations, we explore t
 <button type="button" class="collapsible">Predictive Analytics<sup>[proprietary]</sup></button>
 
 <div class="content" markdown="1">
-<br><br/>
+<!-- <br><br/> -->
+
+### Market Data Inferences
+*Python Developer at [Tower Research Capital](https://www.tower-research.com/), 2021-2022*
+<!-- <br><br/> -->
+- Periodic trade statistic and market sentiment characterization of instruments using NEWS feed, facilitating insightful long-term strategies
+- Top of book estimate & trade prediction with early book adjustment, enabling strategic order placement for US equities during rush trade hours
+- Inhouse trade book level construction, gauging correlation between book levels, during communication failure with exchanges
+- Lossy book compression and reconstruction for low-cost and fast transport between colocation and strategy boxes worldwide
+
 
 ### Digital Aquisition via Fractional Attribution
 *Data Analysis at [AmEx](https://www.americanexpress.com/en-us/careers/career-areas/risk-and-data-analytics/) Market Research, 2017* <br><br/>
 Probability of conversion of a potential customer in influence from social media, customer targetting, and referral from acquaintances, is jointly modelled under a time-decaying impact of such influence, to optimally allocate contrained funds for a *+8% in regional customer acquisition.*
-
-### Market Data Inferences
-*Market Data Developer at [Tower Research Capital](https://www.tower-research.com/), 2018-2022* <br><br/>
-Hey
 
 </div>
 </div>
@@ -60,12 +65,19 @@ Hey
 
 
 <div id="dev">
-<button type="button" class="collapsible">Software Dev in Algo Trading</button>
+<button type="button" class="collapsible">Software Dev in Algo Trading<sup>[proprietary]</sup></button>
 
 <div class="content" markdown="1">
-<br><br/>
+<!-- <br><br/> -->
 
-
+### Low Latency Infrastructure
+*Owner Mid Freq./Co-owner High Freq. for Market Data at [Tower Research Capital](https://www.tower-research.com/), 2018-2020*
+<!-- <br><br/> -->
+- Live market data split service for separate trading instruments, facilitating containerized strategy run in Crypto and US equity exchanges
+- Trade book recovery service enabling strategy runs at adhoc trading hours
+- Live data inconsistency monitoring and alert service on ELK Stack
+- Automated code and API documentation hosting service using Sphynx and Doxygen, enabling seamless usage of trading library
+- Automated development-to-deployment pipeline to keep up with mandatory exchange protocol updates
 
 </div>
 </div>
