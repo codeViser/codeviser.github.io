@@ -9,7 +9,7 @@ Several major academic and professional projects throughout my career are broadl
 - <a class="smoothscroll" data-link="theoretic" href="#theoretic">Learning/Game Theoretic</a> work focuses on **core mathematical** aspects in learning systems, often involving advanced **optimization, probability theory, and graph theory**.
 - <a class="smoothscroll" data-link="analytics" href="#analytics">Predictive Analytics</a> entails applicative data-driven strategic decision making for front-office operations, involving **statistical modelling** in **Python using Big Data tools**.
 - <a class="smoothscroll" data-link="dev" href="#dev">Software Dev for Algo Trading</a> specializes in **C/C++ based system design** for crucial **low-latency** performance.
-- <a class="smoothscroll" data-link="vision" href="#vision">Vision/Recognition</a>: Char Recog in Banks, Road Segmentation
+- <a class="smoothscroll" data-link="vision" href="#vision">Vision/Recognition</a> projects primarily focus on **novel models or applications** driven by **images as the sole mode** of data.
 - <a class="smoothscroll" data-link="nlp" href="#nlp">Language Modelling/Understanding</a>: Character MT, Sentiment Analysis, Word Relatedness, Sentribute, Color Describe
 - <a class="smoothscroll" data-link="social" href="#social">Social Impact</a>:  AR Military Dev,  Violence Detect
 - <a class="smoothscroll" data-link="signals" href="#signals">Signal Processing</a>: FIR Filter
@@ -88,9 +88,15 @@ Probability of conversion of a potential customer in influence from social media
 <button type="button" class="collapsible">Vision/Recognition</button>
 
 <div class="content" markdown="1">
-<br><br/>
+<!-- <br><br/> -->
 
+### Aerial Road Segmentation<sup>[\[paper\]](https://drive.google.com/file/d/1a83sBnwbgoQDz1DxAJxISNfGlZVq9g5e/view?usp=sharing)<sup/>
+*Course Kaggle Contest at [Data Analytics Lab](https://da.inf.ethz.ch/), 2023* <br><br/>
+<img src="/assets/passivBlock.png" class="expimg" align="left" alt="PaSSIV Model Block" width="200px" height=auto/> <img src="/assets/passivModel.png" class="expimg" align="right" alt="PaSSIV Model" width="200px" height=auto/> Given, identification of roads from aerial satelite-view images is far from completely solved, we achieved the 3<sup>rd</sup> highest Kaggle score for it in ETH history. Additionally, I formulated a novel neural operator (Section D.4) that enables Transformers to better identify complex graph-like road geometry.<br><br/>
 
+### Unconstrained Handwritten Char Recognition for Remittance Processing
+*Industry Project under [Dr. Indra Gupta](https://ee.iitr.ac.in/~EE/indrafee), 2017* <br><br/>
+Implemented a robust handwriting recognition android app, using data augmentation from transformed characters, to automate remittance processing at local banks.
 
 </div>
 </div>
