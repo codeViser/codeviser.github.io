@@ -12,6 +12,7 @@ layout: base
 
     <!--collapsible JS-->
      <script>
+
 //     code for button function
          var coll = document.getElementsByClassName("collapsible");
          var i;
@@ -49,12 +50,10 @@ layout: base
         }
 
 //     code for button activation on url visit
-
+       var currURL = window.location.href;
        function codeAddress() {
-         var currURL = window.location.href; // document.URL; //window.location.href;
          const tag = currURL.slice(currURL.indexOf('#')+1);
          var link = tag;
-//         document.write(window.location.href);
          var sectionId = document.getElementById(link);
          var divToOpen = sectionId.querySelector(".collapsible");
          divToOpen.classList.toggle("active");

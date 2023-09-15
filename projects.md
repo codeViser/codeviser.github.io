@@ -41,7 +41,7 @@ Considering transformers produce powerful learning representations, we explore t
 
 
 <div id="analytics">
-<button type="button" class="collapsible">Predictive Analytics<sup>[proprietary]</sup></button>
+    <button type="button" class="collapsible">Predictive Analytics<sup>[proprietary]</sup></button>
 
 <div class="content" markdown="1">
 <!-- <br><br/> -->
