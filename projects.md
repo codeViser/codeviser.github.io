@@ -12,7 +12,7 @@ Several major academic and professional projects throughout my career are broadl
 - <a class="smoothscroll" data-link="vision" href="#vision">Vision/Recognition</a> projects primarily focus on **novel models or applications** driven by **images as the sole mode** of data.
 - <a class="smoothscroll" data-link="nlp" href="#nlp">Language Modelling/Understanding</a> involves projects pertaining to **lingustic/sequential** data dealing with **abstract** notions of **sentiment** and **semantic** understanding.
 - <a class="smoothscroll" data-link="social" href="#social">Social Impact</a> projects revolve around product development intended to solve specific social issues.
-- <a class="smoothscroll" data-link="signals" href="#signals">Signal Processing</a> projects specialize in low-level hardware and signal development.
+- <a class="smoothscroll" data-link="signals" href="#signals">Signal Processing</a> projects specialize in **low-level hardware** and **signal development** in **Verilog**.
 
 <div id="theoretic">
     <button type="button" class="collapsible">Learning/Game Theoretic</button>
