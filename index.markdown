@@ -25,7 +25,3 @@ Statistical Learning, Optimization & Control, Reinforcement Learning, Cognitive 
 - **Data Analyst** on customer acquisition maximization at [AmEX](https://www.americanexpress.com/en-us/careers/career-areas/risk-and-data-analytics/), _2017_
 
 ### [Projects and Reseach Work](/work) (seasonally updated)!
-
-<!--  TODO (schowdhary): Create/update page on projects  -->
-<!-- ### Certifications -->
-<!-- Deep Learning Specialization by _deeplearning.ai_, ML _by Andrew Ng_, Oracle JAVA SE Programmer _by Oracle University_ and many more listed [here](https://www.linkedin.com/in/shubhamchowdhary/) -->

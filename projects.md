@@ -14,6 +14,11 @@ Several major academic and professional projects throughout my career are broadl
 - <a class="smoothscroll" data-link="social" href="#social">Social Impact</a> projects revolve around product development intended to solve specific social issues.
 - <a class="smoothscroll" data-link="signals" href="#signals">Signal Processing</a> projects specialize in **low-level hardware** and **signal development** in **Verilog**.
 
+<br><br/>
+<div align="right">
+<a href='#expall' id='expAll'>Expand All</a> &nbsp; <a href='#expnone' id='collAll'>Collapse All<br></a>
+</div>
+
 <div id="theoretic">
     <button type="button" class="collapsible">Learning/Game Theoretic</button>
 

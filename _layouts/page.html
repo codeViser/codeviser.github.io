@@ -29,6 +29,36 @@ layout: base
              });
          }
 
+     // code for expand/collapse all buttons
+
+     var expA = document.getElementById('expAll');
+    expA.addEventListener('click', function() {
+      expandFunction(true);
+    }, false);
+
+    var collA = document.getElementById('collAll');
+    collA.addEventListener('click', function() {
+      expandFunction(false);
+    }, false);
+
+    function expandFunction(x) {
+      var details = document.getElementsByClassName("collapsible");
+      Array.from(details).forEach(span => {
+        var content = span.nextElementSibling;
+        switch (x) {
+          case false:
+          content.style.display = "none";
+          span.classList.remove("active");
+            break;
+          case true:
+          content.style.display = "block";
+          span.classList.add("active");
+            break;
+          default:
+        }
+      });
+    }
+
 //     code for button function on hyperlink click
         var navLink = document.getElementsByClassName("smoothscroll");
 
