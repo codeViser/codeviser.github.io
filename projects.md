@@ -10,9 +10,9 @@ Several major academic and professional projects throughout my career are broadl
 - <a class="smoothscroll" data-link="analytics" href="#analytics">Predictive Analytics</a> entails applicative data-driven strategic decision making for front-office operations, involving **statistical modelling** in **Python using Big Data tools**.
 - <a class="smoothscroll" data-link="dev" href="#dev">Software Dev for Algo Trading</a> specializes in **C/C++ based system design** for crucial **low-latency** performance.
 - <a class="smoothscroll" data-link="vision" href="#vision">Vision/Recognition</a> projects primarily focus on **novel models or applications** driven by **images as the sole mode** of data.
-- <a class="smoothscroll" data-link="nlp" href="#nlp">Language Modelling/Understanding</a>: Character MT, Sentiment Analysis, Word Relatedness, Sentribute, Color Describe
-- <a class="smoothscroll" data-link="social" href="#social">Social Impact</a>:  AR Military Dev,  Violence Detect
-- <a class="smoothscroll" data-link="signals" href="#signals">Signal Processing</a>: FIR Filter
+- <a class="smoothscroll" data-link="nlp" href="#nlp">Language Modelling/Understanding</a> involves projects pertaining to **lingustic/sequential** data dealing with **abstract** notions of **sentiment** and **semantic** understanding.
+- <a class="smoothscroll" data-link="social" href="#social">Social Impact</a> projects revolve around product development intended to solve specific social issues.
+- <a class="smoothscroll" data-link="signals" href="#signals">Signal Processing</a> projects specialize in low-level hardware and signal development.
 
 <div id="theoretic">
     <button type="button" class="collapsible">Learning/Game Theoretic</button>
@@ -107,9 +107,23 @@ Implemented a robust handwriting recognition android app, using data augmentatio
 <button type="button" class="collapsible">Language Modelling/Understanding</button>
 
 <div class="content" markdown="1">
-<br><br/>
+<!-- <br><br/> -->
 
+### If you know what it means..., Sent-ribute: Understanding sentiment subtleties<sup>[\[paper\]](https://drive.google.com/file/d/1iQdQxG8M0ztbKFwQGOxqeE0vxmiznMYJ/view)<sup/>
+*Course Project supervised by [Dr. Christopher Potts](https://web.stanford.edu/~cgpotts/) at [Stanford](https://online.stanford.edu/programs/artificial-intelligence-professional-program), 2021* <br><br/>
+<img src="/assets/sentribute.png" class="expimg" align="left" alt="Sentribute Model" width="200px" height=auto/> Amidst several generic discrete sentiment classifiers that often could not differentiate between neutral and conflicting sentiments, Sentribute represents a gaussian mixture of basic polar sentiments resulting in a much more interpretable representation of complex sentiments. <br><br/><br><br/>
 
+### Describe unnamed colors in a language game<sup>[\[code\]](https://github.com/codeViser/color-describe)<sup/>
+*Course Project supervised by [Dr. Christopher Potts](https://web.stanford.edu/~cgpotts/) at [Stanford](https://online.stanford.edu/programs/artificial-intelligence-professional-program), 2021* <br><br/>
+How would one describe a color that has no universally accepted name? The trick is to convert the task into a conversation between 2 agents mutually trying to conclude on a unique description of the target color differentiating it from the rest. I improve on this idea via generative cooperative games between listener and speaker agents.<br><br/>
+
+### Char-level Neural Machine Translation<sup>[\[code\]](https://github.com/codeViser/esp-en-char-nmt)<sup/>
+*Course Project supervised by [Dr. Christopher Manning](https://nlp.stanford.edu/~manning/) at [Stanford](https://online.stanford.edu/programs/artificial-intelligence-professional-program), 2020* <br><br/>
+Neural Machine Translation is a popular method for translation across languages. *But how big of a vocabulary in both languages suffice acceptable translation between them?* To address this practical issue, I implement [Loung & Manning (2016)](https://arxiv.org/abs/1604.00788), a translation engine for even unknown words.<br><br/>
+
+### Sentiment Analysis in unseen domain<sup>[\[code\]](https://github.com/codeViser/sentiment-analysis)<sup/>
+*Course Project supervised by [Dr. Christopher Potts](https://web.stanford.edu/~cgpotts/) at [Stanford](https://online.stanford.edu/programs/artificial-intelligence-professional-program), 2021* <br><br/>
+Sentiment identification models predict poorly when they process text from a domain different from their training data. I present a robust sentiment classification module that suppresses sentiment signals from idiosyncratic phrases of a domain limiting the effects of domain-shift, producing 2<sup>nd</sup> highest leaderboard score in the university contest.<br><br/>
 
 </div>
 </div>
@@ -119,8 +133,15 @@ Implemented a robust handwriting recognition android app, using data augmentatio
 <button type="button" class="collapsible">Social Impact</button>
 
 <div class="content" markdown="1">
-<br><br/>
+<!-- <br><br/> -->
 
+### Military training in simulation
+*Student Project funded by [Artificial Intelligence and Electronics Society (ArIES)](https://www.linkedin.com/company/aries-iitr/?originalSubdomain=in) at [IITR](https://new.iitr.ac.in/Main/pages/_en_Indian_Institute_of_Technology_Roorkee__en_.html), 2015-2017* <br><br/>
+To help military personnel practice strategic manoeuvring and skilled shooting, we created a functional augmented reality environment using Microsoft Kinect, limb sensors, Oculus, and an LED gun. The spawned enemies followed adversarial path planning to make their elimination non-trivial.<br><br/>
+
+### Violence Detect
+*Hackathon at [SDS Labs](https://sdslabs.co/), [IITR](https://new.iitr.ac.in/Main/pages/_en_Indian_Institute_of_Technology_Roorkee__en_.html), 2018* <br><br/>
+Built a intelligent video surveillence system using [clarifai API](https://www.clarifai.com/), that alerts authorities on detecting perceptible physical violence from camera feed. The detection is based on confidence inferred from bag of words generated by API on sampled images.<br><br/>
 
 
 </div>
@@ -132,24 +153,11 @@ Implemented a robust handwriting recognition android app, using data augmentatio
 <button type="button" class="collapsible">Signal Processing</button>
 
 <div class="content" markdown="1">
-<br><br/>
+<!-- <br><br/> -->
 
-
+### 3-phase Sequence decomposer on FPGA<sup>[\[paper\]](https://ieeexplore.ieee.org/document/8944848)<sup/>
+*Bachlers Project supervised by [Dr. Vishal Kumar](https://ee.iitr.ac.in/~EE/vksaxfee) at [Electrical Department, IITR](https://ee.iitr.ac.in/), 2018*  <br><br/>
+To detect real-time faults in electrical grid, we implemented a signal processing system that digitally samples sinusoidal waves, breaks it into basic components, and actively monitors anomaly from their characteristics. <br><br/>
 
 </div>
 </div>
-
-<!-- # Projects -->
-<!-- - [Color-Describe](https://github.com/codeViser/color-describe/blob/main/colors-investigate.ipynb), Grounded text generator to distinguish between colors based on [Monroe et al. (2017)](https://transacl.org/ojs/index.php/tacl/article/view/1142) -->
-<!-- - [Sentiment-Analysis](https://github.com/codeViser/sentiment-analysis/blob/main/sentiment-investigate.ipynb), Hybrid Cross-Domain 3-way classifier -->
-<!-- - [Word-Relatedness](https://github.com/codeViser/word-relatedness/blob/master/wordrelatedness-investigate.ipynb), Ensemble of equally well performing _Vector Space Models_ -->
-<!-- - [Character-based Neural Machine Translator](https://github.com/codeViser/esp-en-char-nmt), Spanish-English Encoder-Decoder architecture for even OOV words -->
-<!-- - Digital Acquisition Attribution, accounts for a fair share of contribution from various -->
-<!-- sources in Digital Marketing (emails, google-ads, referrals, etc) -->
-<!-- - Unconstrained Handwritten Char Recog. for Remittance Processing, OCR for Remittance Processing recognizing casually filled forms -->
-
-<!-- # Research -->
-<!-- - _Chowdhary, S._ “‘If you know what it means…’, Sent-ribute: Understanding sentiment -->
-<!-- subtleties”. Paper Draft, 2021 -->
-<!-- - [_Kumar, P. Mittal, A. Reddy, K.U.K. Chowdhary, S. Kumar, V. Pratap, R._ “Design & Verification of 3-Phase Sequence -->
-<!-- Decomposer on Re-configurable Hardware”. 10th ICCCNT, pp. 104-108, 2019](https://ieeexplore.ieee.org/document/8944848), _Undergrad Work (2017-18)_ -->
