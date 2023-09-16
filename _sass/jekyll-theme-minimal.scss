@@ -347,3 +347,22 @@ footer {
         color:#444;
     }
 }
+
+figure {
+    border: 1px #cccccc solid;
+    padding: 4px;
+    margin: auto;
+    display: inline-block;
+    align-items: middle;
+    padding: 5px;
+}
+
+figcaption {
+    margin: 10px 0 0 0;
+    font-variant: small-caps;
+    font-family: Arial;
+    font-weight: bold;
+    color: #bb3333;
+    text-align: center;
+}
+

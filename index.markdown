@@ -24,4 +24,8 @@ Statistical Learning, Optimization & Control, Reinforcement Learning, Cognitive 
 - Market data **dev** at quant firm, [Tower Research Capital](https://www.tower-research.com/), _2018-2022_
 - **Data Analyst** on customer acquisition maximization at [AmEX](https://www.americanexpress.com/en-us/careers/career-areas/risk-and-data-analytics/), _2017_
 
-### [Projects and Reseach Work](/work) (seasonally updated)!
+### [Detailed Projects and Reseach Work](/work) (seasonally updated)!
+
+### A Short and apt [CV](https://drive.google.com/file/d/1mVHP9MYLIF_g3IbYrn5LEzOe1EycuF7w/view?usp=sharing) instead, summarizes prominent points quickly!
+
+### More [about me](/about) in my spare-time!
