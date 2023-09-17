@@ -26,6 +26,8 @@ Statistical Learning, Optimization & Control, Reinforcement Learning, Cognitive 
 
 ### [Detailed Projects and Reseach Work](/work) (seasonally updated)!
 
+### Official [certifications](https://www.linkedin.com/in/shubhamchowdhary/details/certifications/) I earned!
+
 ### A Short and apt [CV](https://drive.google.com/file/d/1mVHP9MYLIF_g3IbYrn5LEzOe1EycuF7w/view?usp=sharing) instead, summarizes prominent points quickly!
 
 ### More [about me](/about) in my spare-time!
