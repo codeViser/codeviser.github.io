@@ -33,13 +33,15 @@ Considering transformers produce powerful learning representations, we explore t
 *Course Project supervised by [Vinzenz Thoma](https://scholar.google.com/citations?user=2ZT371MAAAAJ&hl=en), [Zebang Shen](https://scholar.google.com/citations?user=klqzFvgAAAAJ&hl=en) at [Optimization & Decision Intelligence Group](https://odi.inf.ethz.ch/), 2023* <br><br/>
 <img src="/assets/MG.jpg" class="" align="right" alt="Prisoner's Dilemma Game" width="200px" height=auto/> In a repeated Matrix Game between two optimal agents, mutual defection strategy is often an undesirable, yet the only outcome. We propose an improved learning mechanism that enforces moral conduct in these perceptive agents by promoting mutual co-operation and joint reward maximization. <br><br/>
 
-### Priors from Deep Networks for Bayesian Deep Learning<sup>[\[paper\]](https://drive.google.com/file/d/1_6mhUEmLygu4_a83CFNAgNNbZz0bKJpj/view)<sup/>
-*Course Project supervised by [Lorenzo Noci](https://scholar.google.com/citations?user=VZ__1r0AAAAJ&hl=en) at [Data Analytics Lab](https://da.inf.ethz.ch/), 2022*  <br><br/>
-<img src="/assets/TILDA.png" class="expimg" align="left" alt="TILDA Model" width="200px" height=auto/> While deep neural networks are fundamental architectures for learning tasks, their lack of uncertainty estimation motivated us to design TILDA: a mechanism to encode information from deep networks as dirichlet priors for improved uncertainty quantification and performance in Bayesian Neural Networks. <br><br/>
-
 ### Optimal Transport for Social Influence Maximization<sup>[\[report\]](https://drive.google.com/file/d/1gd6yv50lifP72L3zIxAK5I0cQC7OJb39/view)<sup/>
 *Research Project supervised by [Nicolas Lanzetti](https://scholar.google.ch/citations?user=gWJV1rQAAAAJ&hl=en), [Prof. Giulia De Pasquale](https://scholar.google.com/citations?user=61JYIhYAAAAJ&hl=it), [Prof. Florian Dörfler](https://scholar.google.com/citations?user=P2kxZ3MAAAAJ&hl=en), [Prof. Andreas Krause](https://scholar.google.com/citations?user=eDHv58AAAAAJ&hl=en) at [Automatic Control Laboratory](https://control.ee.ethz.ch/), 2023*  <br><br/>
-<img src="/assets/sim.png" class="expimg" align="right" alt="OT SIM Pipeline" width="200px" height=auto/> Information propagation in complex social networks often leads to its disproportionate access across different groups within the network. To ensure fairness in information access across groups while maximizing its outreach, we propose an iterative metric characterized by Optimal Transport cost between information distribution across groups.
+<img src="/assets/sim.png" class="expimg" align="left" alt="OT SIM Pipeline" width="200px" height=auto/> Information propagation in complex social networks often leads to its disproportionate access across different groups within the network. To ensure fairness in information access across groups while maximizing its outreach, we propose an iterative metric characterized by Optimal Transport cost between information distribution across groups.
+
+### Priors from Deep Networks for Bayesian Deep Learning<sup>[\[paper\]](https://drive.google.com/file/d/1_6mhUEmLygu4_a83CFNAgNNbZz0bKJpj/view)<sup/>
+*Course Project supervised by [Lorenzo Noci](https://scholar.google.com/citations?user=VZ__1r0AAAAJ&hl=en) at [Data Analytics Lab](https://da.inf.ethz.ch/), 2022*  <br><br/>
+<img src="/assets/TILDA.png" class="expimg" align="right" alt="TILDA Model" width="200px" height=auto/> While deep neural networks are fundamental architectures for learning tasks, their lack of uncertainty estimation motivated us to design TILDA: a mechanism to encode information from deep networks as dirichlet priors for improved uncertainty quantification and performance in Bayesian Neural Networks. <br><br/>
+
+
 
 </div>
 </div>
@@ -62,7 +64,7 @@ Considering transformers produce powerful learning representations, we explore t
 
 ### Digital Aquisition via Fractional Attribution
 *Data Analysis at [AmEx](https://www.americanexpress.com/en-us/careers/career-areas/risk-and-data-analytics/) Market Research, 2017* <br><br/>
-Probability of conversion of a potential customer in influence from social media, customer targetting, and referral from acquaintances, is jointly modelled under a time-decaying impact of such influence, to optimally allocate contrained funds for a *+8% in regional customer acquisition.*
+Probability of conversion of a potential customer in influence from social media, customer targetting, and referral from acquaintances, is jointly modelled under a time-decaying impact of such influence, to optimally allocate constrained funds for a *+8% in regional customer acquisition.*
 
 </div>
 </div>
@@ -97,7 +99,7 @@ Probability of conversion of a potential customer in influence from social media
 
 ### Aerial Road Segmentation<sup>[\[paper\]](https://drive.google.com/file/d/1a83sBnwbgoQDz1DxAJxISNfGlZVq9g5e/view?usp=sharing)<sup/>
 *Course Kaggle Contest at [Data Analytics Lab](https://da.inf.ethz.ch/), 2023* <br><br/>
-<img src="/assets/passivBlock.png" class="expimg" align="left" alt="PaSSIV Model Block" width="200px" height=auto/> <img src="/assets/passivModel.png" class="expimg" align="right" alt="PaSSIV Model" width="200px" height=auto/> Given, identification of roads from aerial satelite-view images is far from completely solved, we achieved the 3<sup>rd</sup> highest Kaggle score for it in ETH history. Additionally, I formulated a novel neural operator (Section D.4) that enables Transformers to better identify complex graph-like road geometry.<br><br/>
+<img src="/assets/passivBlock.png" class="expimg" align="left" alt="PaSSIV Model Block" width="200px" height=auto/> <img src="/assets/passivModel.png" class="expimg" align="right" alt="PaSSIV Model" width="200px" height=auto/> Given, identification of roads from aerial satelite-view images is far from completely solved, we achieved the 3<sup>rd</sup> highest Kaggle score for it in ETH history. Additionally, I formulated a novel neural operator (Section D.4) that enables Transformers to better identify complex graph-like road geometry even in data scarcity.<br><br/>
 
 ### Unconstrained Handwritten Char Recognition for Remittance Processing
 *Industry Project under [Dr. Indra Gupta](https://ee.iitr.ac.in/~EE/indrafee), 2017* <br><br/>
@@ -122,13 +124,13 @@ Implemented a robust handwriting recognition android app, using data augmentatio
 *Course Project supervised by [Dr. Christopher Potts](https://web.stanford.edu/~cgpotts/) at [Stanford](https://online.stanford.edu/programs/artificial-intelligence-professional-program), 2021* <br><br/>
 How would one describe a color that has no universally accepted name? The trick is to convert the task into a conversation between 2 agents mutually trying to conclude on a unique description of the target color differentiating it from the rest. I improve on this idea via generative cooperative games between listener and speaker agents.<br><br/>
 
-### Char-level Neural Machine Translation<sup>[\[code\]](https://github.com/codeViser/esp-en-char-nmt)<sup/>
-*Course Project supervised by [Dr. Christopher Manning](https://nlp.stanford.edu/~manning/) at [Stanford](https://online.stanford.edu/programs/artificial-intelligence-professional-program), 2020* <br><br/>
-Neural Machine Translation is a popular method for translation across languages. *But how big of a vocabulary in both languages suffice acceptable translation between them?* To address this practical issue, I implement [Loung & Manning (2016)](https://arxiv.org/abs/1604.00788), a translation engine for even unknown words.<br><br/>
-
 ### Sentiment Analysis in unseen domain<sup>[\[code\]](https://github.com/codeViser/sentiment-analysis)<sup/>
 *Course Project supervised by [Dr. Christopher Potts](https://web.stanford.edu/~cgpotts/) at [Stanford](https://online.stanford.edu/programs/artificial-intelligence-professional-program), 2021* <br><br/>
 Sentiment identification models predict poorly when they process text from a domain different from their training data. I present a robust sentiment classification module that suppresses sentiment signals from idiosyncratic phrases of a domain limiting the effects of domain-shift, producing 2<sup>nd</sup> highest leaderboard score in the university contest.<br><br/>
+
+### Char-level Neural Machine Translation<sup>[\[code\]](https://github.com/codeViser/esp-en-char-nmt)<sup/>
+*Course Project supervised by [Dr. Christopher Manning](https://nlp.stanford.edu/~manning/) at [Stanford](https://online.stanford.edu/programs/artificial-intelligence-professional-program), 2020* <br><br/>
+Neural Machine Translation is a popular method for translation across languages. *But how big of a vocabulary in both languages suffice acceptable translation between them?* To address this practical issue, I implement [Loung & Manning (2016)](https://arxiv.org/abs/1604.00788), a translation engine for even unknown words.<br><br/>
 
 </div>
 </div>
@@ -140,13 +142,13 @@ Sentiment identification models predict poorly when they process text from a dom
 <div class="content" markdown="1">
 <!-- <br><br/> -->
 
-### Military training in simulation
-*Student Project funded by [Artificial Intelligence and Electronics Society (ArIES)](https://www.linkedin.com/company/aries-iitr/?originalSubdomain=in) at [IITR](https://new.iitr.ac.in/Main/pages/_en_Indian_Institute_of_Technology_Roorkee__en_.html), 2015-2017* <br><br/>
-To help military personnel practice strategic manoeuvring and skilled shooting, we created a functional augmented reality environment using Microsoft Kinect, limb sensors, Oculus, and an LED gun. The spawned enemies followed adversarial path planning to make their elimination non-trivial.<br><br/>
-
 ### Violence Detect
 *Hackathon at [SDS Labs](https://sdslabs.co/), [IITR](https://new.iitr.ac.in/Main/pages/_en_Indian_Institute_of_Technology_Roorkee__en_.html), 2018* <br><br/>
 Built a intelligent video surveillence system using [clarifai API](https://www.clarifai.com/), that alerts authorities on detecting perceptible physical violence from camera feed. The detection is based on confidence inferred from bag of words generated by API on sampled images.<br><br/>
+
+### Military training in simulation
+*Student Project funded by [Artificial Intelligence and Electronics Society (ArIES)](https://www.linkedin.com/company/aries-iitr/?originalSubdomain=in) at [IITR](https://new.iitr.ac.in/Main/pages/_en_Indian_Institute_of_Technology_Roorkee__en_.html), 2015-2017* <br><br/>
+To help military personnel practice strategic manoeuvring and skilled shooting, we created a functional augmented reality environment using Microsoft Kinect, limb sensors, Oculus, and an LED gun. The spawned enemies followed adversarial path planning to make their elimination non-trivial.<br><br/>
 
 
 </div>
