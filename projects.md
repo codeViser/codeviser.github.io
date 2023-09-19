@@ -56,7 +56,7 @@ Considering transformers produce powerful learning representations, we explore t
 ### Market Data Inferences
 *Python Developer at [Tower Research Capital](https://www.tower-research.com/), 2021-2022*
 <!-- <br><br/> -->
-- Continued from [low-latency role](/work/#dev)
+- Continued from [low-latency role](/work/#dev), 2018-2020
 - Periodic trade statistic and market sentiment characterization of instruments using NEWS feed, facilitating insightful long-term strategies
 - Top of book estimate & trade prediction with early book adjustment, enabling strategic order placement for US equities during rush trade hours
 - Inhouse trade book level construction, gauging correlation between book levels, during communication failure with exchanges
@@ -79,7 +79,7 @@ Probability of conversion of a potential customer in influence from social media
 <!-- <br><br/> -->
 
 ### Low Latency Infrastructure
-*Owner Mid Freq./Co-owner High Freq. for Market Data at [Tower Research Capital](https://www.tower-research.com/), 2018-2020*
+*Owner Mid Freq./Co-owner High Freq. for Market Data at [Tower Research Capital](https://www.tower-research.com/), 2018-2022*
 <!-- <br><br/> -->
 - Live market data split service for separate trading instruments, facilitating containerized strategy run in Crypto and US equity exchanges
 - Trade book recovery service enabling strategy runs at adhoc trading hours
