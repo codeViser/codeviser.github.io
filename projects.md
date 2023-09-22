@@ -58,7 +58,7 @@ Considering transformers produce powerful learning representations, we explore t
 <!-- <br><br/> -->
 - Continued from [low-latency role](/work/#dev), 2018-2020
 - Periodic trade statistic and market sentiment characterization of instruments using NEWS feed, facilitating insightful long-term strategies
-- Top of book estimate & trade prediction with early book adjustment, enabling strategic order placement for US equities during rush trade hours
+- Top of book estimate & trade prediction with early book adjustment for specific instruments based on recent trade-history and book-activity of correlated symbols, enabling strategic order placement for US equities during rush trade hours
 - Inhouse trade book level construction, gauging correlation between book levels, during communication failure with exchanges
 - Lossy book compression and reconstruction for low-cost and fast transport between colocation and strategy boxes worldwide
 
