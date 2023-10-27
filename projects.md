@@ -25,9 +25,9 @@ Several major academic and professional projects throughout my career are broadl
 <div class="content" markdown="1">
 <!-- <br><br/> -->
 
-### Hessian View of loss landscape in Vision Transformers
-*Research Assisstance under [Sidak Pal Singh](https://scholar.google.ch/citations?user=c59mPS4AAAAJ&hl=en), [Dr. Thomas Hofmann](https://scholar.google.ch/citations?user=T3hAyLkAAAAJ&hl=en) at [Data Analytics Lab](https://da.inf.ethz.ch/), 2023* <br><br/>
-Considering transformers produce powerful learning representations, we explore their parametric loss landscape encoded in approximate second-order curvature. We crucially ask, *what meaningful subset of parameters make them so powerful?*
+### Exploring approximation regrets in Online Learning from adversarial data feed
+*Course Project under [Gil Kur](https://scholar.google.com/citations?user=yDkAhccAAAAJ&hl=en), [Dr. Fanny Yang](https://sml.inf.ethz.ch/group/fannyy/) at [SML Group](https://sml.inf.ethz.ch/), 2023* <br><br/>
+Learning complex functions is fairly mainstream when data points are available offline. We delve into _"what learning mechanism (with guarantees) work when the data is only available in an online fashion, sequentially, and above all adversarially?"_ Our theoretical analysis digs deeper into results from [Smoothed Online Learning Guarantees for non-parametric functions](https://arxiv.org/abs/2202.04690).
 
 ### Exploring Mechanism-Aware Cooperation Intent<sup>[\[paper\]](https://drive.google.com/file/d/1HZA_IkKm7508LSu-rAzns41mu_8FfeUK/view)<sup/>
 *Course Project supervised by [Vinzenz Thoma](https://scholar.google.com/citations?user=2ZT371MAAAAJ&hl=en), [Zebang Shen](https://scholar.google.com/citations?user=klqzFvgAAAAJ&hl=en) at [Optimization & Decision Intelligence Group](https://odi.inf.ethz.ch/), 2023* <br><br/>
