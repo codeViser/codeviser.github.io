@@ -12,7 +12,7 @@ Several major academic and professional projects throughout my career are broadl
 - <a class="smoothscroll" data-link="vision" href="#vision">Vision/Recognition</a> projects primarily focus on **novel models or applications** driven by **images as the sole mode** of data.
 - <a class="smoothscroll" data-link="nlp" href="#nlp">Language Modelling/Understanding</a> involves projects pertaining to **lingustic/sequential** data dealing with **abstract** notions of **sentiment** and **semantic** understanding.
 - <a class="smoothscroll" data-link="social" href="#social">Social Impact</a> projects revolve around product development intended to solve specific social issues.
-- <a class="smoothscroll" data-link="signals" href="#signals">Signal Processing</a> projects specialize in **low-level hardware** and **signal development** in **Verilog**.
+- <a class="smoothscroll" data-link="signals" href="#signals">Signal Processing</a> projects specialize in **mathematical modeling** for low-level hardware and **signal development**.
 
 <br><br/>
 <div align="right">
@@ -54,13 +54,16 @@ Learning complex functions is fairly mainstream when data points are available o
 <!-- <br><br/> -->
 
 ### Market Data Inferences
-*Python Developer at [Tower Research Capital](https://www.tower-research.com/), 2021-2022*
+*Analyst at [Tower Research Capital](https://www.tower-research.com/), 2021-2022*
 <!-- <br><br/> -->
 - Continued from [low-latency role](/work/#dev), 2018-2020
 - Periodic trade statistic and market sentiment characterization of instruments using NEWS feed, facilitating insightful long-term strategies
 - Top of book estimate & trade prediction with early book adjustment for specific instruments based on recent trade-history and book-activity of correlated symbols, enabling strategic order placement for US equities during rush trade hours
 - Inhouse trade book level construction, gauging correlation between book levels, during communication failure with exchanges
-- Lossy book compression and reconstruction for low-cost and fast transport between colocation and strategy boxes worldwide
+- Lossy book (modeled as a matrix) compression and reconstruction for low-cost and fast transport between colocation and strategy boxes worldwide
+- Regrouping instruments on volatility based on initial incoming trades from basis instruments
+- Live strategy monitoring and performance evaluation on deviation from historical sim metrics
+- Managing a team of 3 in MD analysis
 
 
 ### Digital Aquisition via Fractional Attribution
@@ -103,7 +106,7 @@ Probability of conversion of a potential customer in influence from social media
 *Course Kaggle Contest at [Data Analytics Lab](https://da.inf.ethz.ch/), 2023* <br><br/>
 <img src="/assets/passivBlock.png" class="expimg" align="left" alt="PaSSIV Model Block" width="200px" height=auto/> <img src="/assets/passivModel.png" class="expimg" align="right" alt="PaSSIV Model" width="200px" height=auto/> Given, identification of roads from aerial satelite-view images is far from completely solved, we achieved the 3<sup>rd</sup> highest Kaggle score for it in ETH history. Additionally, I formulated a novel neural operator (Section D.4) that enables Transformers to better identify complex graph-like road geometry even in data scarcity.<br><br/>
 
-### Unconstrained Handwritten Char Recognition for Remittance Processing
+### Handwriting recognition in unconstrained and haphazard writeups
 *Industry Project under [Dr. Indra Gupta](https://ee.iitr.ac.in/~EE/indrafee), 2017* <br><br/>
 Implemented a robust handwriting recognition android app, using data augmentation from transformed characters, to automate remittance processing at local banks.
 
@@ -164,7 +167,7 @@ To help military personnel practice strategic manoeuvring and skilled shooting, 
 <div class="content" markdown="1">
 <!-- <br><br/> -->
 
-### 3-phase Sequence decomposer on FPGA<sup>[\[paper\]](https://ieeexplore.ieee.org/document/8944848)<sup/>
+### Real-time anomaly detection in sinusoidal grid system via modeling z-transform frequency filters<sup>[\[paper\]](https://ieeexplore.ieee.org/document/8944848)<sup/>
 *Bachlers Project supervised by [Dr. Vishal Kumar](https://ee.iitr.ac.in/~EE/vksaxfee) at [Electrical Department, IITR](https://ee.iitr.ac.in/), 2018*  <br><br/>
 To detect real-time faults in electrical grid, we implemented a signal processing system that digitally samples sinusoidal waves, breaks it into basic components, and actively monitors anomaly from their characteristics. <br><br/>
 

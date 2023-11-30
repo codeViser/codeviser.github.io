@@ -16,11 +16,12 @@ Statistical Learning, Optimization & Control, Game Theory, Reinforcement Learnin
 > Pursuing mathematical research in designing & explaining intelligent systems in social/game-theoretic settings, I wish to create unbiased, interpretable, and robust knowledge systems of inference facilitating decisions. In the long run, I desire to make seminal contributions in machine cognition, guarantees in behavioral estimates, and fundamentals of AGI.
 
 ### Education
-- **Masters** at [ETH Zurich](https://ethz.ch/en.html) _in [CS \(dual major: Computational Statistics, Learning Theory\)](https://inf.ethz.ch/)_, _2022_
+- **Masters** at [ETH Zurich](https://ethz.ch/en.html) _in [CS \(dual major: Computational Statistics, Mathematical Modeling\)](https://inf.ethz.ch/)_, _2022_
 - **Professional student** at [Stanford AI](https://online.stanford.edu/programs/artificial-intelligence-professional-program) _2020 & 2021_
 - **Bachelors** at [IIT, Roorkee](https://new.iitr.ac.in/Main/pages/_en_Indian_Institute_of_Technology_Roorkee__en_.html) _in [Computer Science](https://cse.iitr.ac.in/) and [Electrical](https://ee.iitr.ac.in/) (specialize in Control Theory)_, _2014-2018_
 
-### Industry
+### Work
+**[NEWS!]** I have joined [Advanced Control Laboratory, ETH Zurich](https://control.ee.ethz.ch/) as a student researcher to work with [Nicolas Lanzetti](https://scholar.google.ch/citations?user=gWJV1rQAAAAJ&hl=en), [Prof. Giulia De Pasquale](https://scholar.google.com/citations?user=61JYIhYAAAAJ&hl=it)
 - Market data **analysis** at quant firm, [Tower Research Capital](https://www.tower-research.com/), _2018-2022_
 - **Data Analyst** on customer acquisition maximization at [AmEX](https://www.americanexpress.com/en-us/careers/career-areas/risk-and-data-analytics/), _2017_
 
