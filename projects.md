@@ -7,10 +7,10 @@ permalink: /work/
 Several major academic and professional projects throughout my career are broadly summarized as,
 
 - <a class="smoothscroll" data-link="theoretic" href="#theoretic">Learning/Game Theoretic</a> work focuses on **core mathematical** aspects in learning systems, often involving advanced **optimization, probability theory, and graph theory**.
-- <a class="smoothscroll" data-link="analytics" href="#analytics">Predictive Analytics</a> entails applicative data-driven strategic decision making for front-office operations, involving **statistical modelling** in **Python using Big Data tools**.
+- <a class="smoothscroll" data-link="analytics" href="#analytics">Predictive Analytics</a> entails applicative data-driven strategic decision making for front-office operations, involving **statistical modeling** in **Python using Big Data tools**.
 - <a class="smoothscroll" data-link="dev" href="#dev">Software Dev for Algo Trading</a> specializes in **C/C++ based system design** for crucial **low-latency** performance.
 - <a class="smoothscroll" data-link="vision" href="#vision">Vision/Recognition</a> projects primarily focus on **novel models or applications** driven by **images as the sole mode** of data.
-- <a class="smoothscroll" data-link="nlp" href="#nlp">Language Modelling/Understanding</a> involves projects pertaining to **lingustic/sequential** data dealing with **abstract** notions of **sentiment** and **semantic** understanding.
+- <a class="smoothscroll" data-link="nlp" href="#nlp">Language Modeling/Understanding</a> involves projects pertaining to **lingustic/sequential** data dealing with **abstract** notions of **sentiment** and **semantic** understanding.
 - <a class="smoothscroll" data-link="social" href="#social">Social Impact</a> projects revolve around product development intended to solve specific social issues.
 - <a class="smoothscroll" data-link="signals" href="#signals">Signal Processing</a> projects specialize in **mathematical modeling** for low-level hardware and **signal development**.
 
@@ -116,7 +116,7 @@ Implemented a robust handwriting recognition android app, using data augmentatio
 
 
 <div id="nlp">
-<button type="button" class="collapsible">Language Modelling/Understanding</button>
+<button type="button" class="collapsible">Language Modeling/Understanding</button>
 
 <div class="content" markdown="1">
 <!-- <br><br/> -->
