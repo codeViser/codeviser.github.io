@@ -21,7 +21,7 @@ Statistical Learning, Optimization & Control, Game Theory, Reinforcement Learnin
 - **Bachelors** at [IIT, Roorkee](https://new.iitr.ac.in/Main/pages/_en_Indian_Institute_of_Technology_Roorkee__en_.html) _in [Computer Science](https://cse.iitr.ac.in/) and [Electrical](https://ee.iitr.ac.in/) (specialize in Control Theory)_, _2014-2018_
 
 ### Work
-**[NEWS!]** I have joined [Advanced Control Laboratory, ETH Zurich](https://control.ee.ethz.ch/) as a student researcher to work with [Nicolas Lanzetti](https://scholar.google.ch/citations?user=gWJV1rQAAAAJ&hl=en), [Prof. Giulia De Pasquale](https://scholar.google.com/citations?user=61JYIhYAAAAJ&hl=it)
+**[NEWS!]** I have joined [Advanced Control Laboratory, ETH Zurich](https://control.ee.ethz.ch/) as a student researcher to work with [Nicolas Lanzetti](https://scholar.google.ch/citations?user=gWJV1rQAAAAJ&hl=en), [Dr. Pasquale](https://scholar.google.com/citations?user=61JYIhYAAAAJ&hl=it), and [Dr. Dörfler](https://scholar.google.com/citations?user=P2kxZ3MAAAAJ&hl=en)
 - Market data **analysis** at quant firm, [Tower Research Capital](https://www.tower-research.com/), _2018-2022_
 - **Data Analyst** on customer acquisition maximization at [AmEX](https://www.americanexpress.com/en-us/careers/career-areas/risk-and-data-analytics/), _2017_
 
