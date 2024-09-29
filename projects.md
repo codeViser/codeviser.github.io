@@ -25,6 +25,10 @@ Several major academic and professional projects throughout my career are broadl
 <div class="content" markdown="1">
 <!-- <br><br/> -->
 
+### Optimal Transport for Social Influence Maximization<sup>[\[report\]](https://drive.google.com/file/d/1gd6yv50lifP72L3zIxAK5I0cQC7OJb39/view)[\[paper NeurIPS'24\]](https://arxiv.org/abs/2406.17736v1)<sup/>
+*Research Project supervised by [Nicolas Lanzetti](https://scholar.google.ch/citations?user=gWJV1rQAAAAJ&hl=en), [Prof. Dr. Giulia De Pasquale](https://scholar.google.com/citations?user=61JYIhYAAAAJ&hl=it), [Dr. Ana-Andreea Stoica](https://www.columbia.edu/~as5001/), [Prof. Dr. Florian Dörfler](https://scholar.google.com/citations?user=P2kxZ3MAAAAJ&hl=en), [Prof. Dr. Andreas Krause](https://scholar.google.com/citations?user=eDHv58AAAAAJ&hl=en) at [Automatic Control Laboratory](https://control.ee.ethz.ch/), 2023-2024*  <br><br/>
+<img src="/assets/sim.png" class="expimg" align="left" alt="OT SIM Pipeline" width="200px" height=auto/> <img src="/assets/S3DDemo.png" class="expimg" align="right" alt="S3D Demo" width="200px" height=auto/>Information propagation in complex social networks often leads to its disproportionate access across different groups within the network. To ensure fairness in information access across groups while maximizing its outreach, we propose an iterative metric characterized by Optimal Transport cost between information distribution across groups. We then propose a novel combinatorial optimization algorithm using this metric to promote fairness in society subject to random interactions. The central mathematical theory driving solution to this problem is extensible to any combinatorial optimization problem under uncertainty!
+
 ### Exploring approximation regrets in Online Learning from adversarial feed<sup>[\[ppt\]](https://drive.google.com/file/d/1FnzyRf-5VqmS0vbFMwf2xlPwhHmleMz4/view?usp=sharing)[\[paper\]](https://drive.google.com/file/d/1qe3ZfIv0KNTm0BMKK53Aosp-EUeZFghc/view)<sup/>
 *Course Project under [Dr. Gil Kur](https://scholar.google.com/citations?user=yDkAhccAAAAJ&hl=en), [Prof. Dr. Fanny Yang](https://sml.inf.ethz.ch/group/fannyy/) at [SML Group](https://sml.inf.ethz.ch/), 2023* <br><br/>
 <img src="/assets/thumbnail_OL.png" class="expimg" align="left" alt="Adversarial Online Learning" width="200px" height=auto/> Learning complex functions is fairly mainstream when data points are available offline. _What learning mechanism (with guarantees) work when the data is only available in an online sequentially adversarial fashion?_ We dig deeper into [Smoothed Online Learning Guarantees for non-parametric functions](https://arxiv.org/abs/2202.04690) and establish adaptive $\sigma_t$-smooth regret bounds in adversarial online learning, extending results from this study. Additionally, we identify limitations of Improper Learning algorithm proposed by the authors, and highlight improvements. 
@@ -32,10 +36,6 @@ Several major academic and professional projects throughout my career are broadl
 ### Exploring Mechanism-Aware Cooperation Intent<sup>[\[pre-poster\]](https://drive.google.com/file/d/1RoveJYYztqy_8Yt82_7kO6jNiw5jap_g/view?usp=sharing)[\[paper\]](https://drive.google.com/file/d/1HZA_IkKm7508LSu-rAzns41mu_8FfeUK/view)<sup/>
 *Course Project supervised by [Vinzenz Thoma](https://scholar.google.com/citations?user=2ZT371MAAAAJ&hl=en), [Dr. Zebang Shen](https://scholar.google.com/citations?user=klqzFvgAAAAJ&hl=en), [Prof. Dr. Niao He](https://scholar.google.com/citations?user=iNcA81MAAAAJ&hl=en) at [Optimization & Decision Intelligence Group](https://odi.inf.ethz.ch/), 2023* <br><br/>
 <img src="/assets/MG.jpg" class="expimg" align="right" alt="Prisoner's Dilemma Game" width="200px" height=auto/> In a repeated Matrix Game between two optimal agents, mutual defection strategy is often an undesirable, yet the only outcome. We propose an improved learning mechanism that enforces moral conduct in these perceptive agents by promoting mutual co-operation and joint reward maximization. <br><br/>
-
-### Optimal Transport for Social Influence Maximization<sup>[\[report\]](https://drive.google.com/file/d/1gd6yv50lifP72L3zIxAK5I0cQC7OJb39/view)<sup/>
-*Research Project supervised by [Nicolas Lanzetti](https://scholar.google.ch/citations?user=gWJV1rQAAAAJ&hl=en), [Prof. Dr. Giulia De Pasquale](https://scholar.google.com/citations?user=61JYIhYAAAAJ&hl=it), [Prof. Dr. Florian Dörfler](https://scholar.google.com/citations?user=P2kxZ3MAAAAJ&hl=en), [Prof. Dr. Andreas Krause](https://scholar.google.com/citations?user=eDHv58AAAAAJ&hl=en) at [Automatic Control Laboratory](https://control.ee.ethz.ch/), 2023*  <br><br/>
-<img src="/assets/sim.png" class="expimg" align="left" alt="OT SIM Pipeline" width="200px" height=auto/> Information propagation in complex social networks often leads to its disproportionate access across different groups within the network. To ensure fairness in information access across groups while maximizing its outreach, we propose an iterative metric characterized by Optimal Transport cost between information distribution across groups.
 
 ### Priors from Deep Networks for Bayesian Deep Learning<sup>[\[paper\]](https://drive.google.com/file/d/1_6mhUEmLygu4_a83CFNAgNNbZz0bKJpj/view)<sup/>
 *Course Project supervised by [Lorenzo Noci](https://scholar.google.com/citations?user=VZ__1r0AAAAJ&hl=en), [Prof. Dr. Thomas Hofmann](https://scholar.google.co.uk/citations?user=T3hAyLkAAAAJ&hl=en) at [Data Analytics Lab](https://da.inf.ethz.ch/), 2022*  <br><br/>
@@ -58,9 +58,9 @@ Several major academic and professional projects throughout my career are broadl
 <!-- <br><br/> -->
 - Continued from [low-latency role](/work/#dev), 2018-2020
 - Periodic trade statistic and market sentiment characterization of instruments using NEWS feed, facilitating insightful long-term strategies
-- Top of book estimate & trade prediction with early book adjustment for specific instruments based on recent trade-history and book-activity of correlated symbols, enabling strategic order placement for US equities during rush trade hours
+- Top of book estimate & trade prediction with early book adjustment for specific instruments based on recent trade-history and book-activity of correlated symbols, enabling strategic order placement for US equities during rush trade hours; +11% on equity order-fill ratio
 - Inhouse trade book level construction, gauging correlation between book levels, during communication failure with exchanges
-- Lossy book (modeled as a matrix) compression and reconstruction for low-cost and fast transport between colocation and strategy boxes worldwide
+- Lossy book (modeled as a matrix) compression and reconstruction for low-cost and fast transport between colocation and strategy boxes worldwide; faster by 200 ns
 - Regrouping instruments on volatility based on initial incoming trades from basis instruments
 - Live strategy monitoring and performance evaluation on deviation from historical sim metrics
 - Managing a team of 3 in MD analysis
@@ -84,7 +84,7 @@ Probability of conversion of a potential customer in influence from social media
 ### Low Latency Infrastructure
 *Owner Mid Freq./Co-owner High Freq. for Market Data at [Tower Research Capital](https://www.tower-research.com/), 2018-2022*
 <!-- <br><br/> -->
-- Live market data split service for separate trading instruments, facilitating containerized strategy run in Crypto and US equity exchanges
+- Live market data split service, facilitating focused/containerized strategy run per Crypto and US equity basket; gross Crypto PnL: +30-50%/$1.2B
 - Trade book recovery service enabling strategy runs at adhoc trading hours
 - Live data inconsistency monitoring and alert service on ELK Stack
 - Automated code and API documentation hosting service using Sphynx and Doxygen, enabling seamless usage of trading library
