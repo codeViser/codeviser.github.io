@@ -8,14 +8,15 @@ layout: default # home
 <!-- <img src="photoId.jpg" alt="drawing" width="200"/> -->
 # Shubham (@codeviser)
 
+<small>
 "_Hey there! If you haven't landed on this page by accident, chances are that you already met CodeViser! ViseHub is his honest effort in highlighting his academic, professional, and idiosyncratic journey thus far!_"
+</small>
 
 ### Focal Interests & Aspirations
 Statistical & Sequential Learning, Optimization & Control, Game Theory, Stochastic Decision Dynamics, Econometrics
 
-> Pursuing research in designing & explaining intelligent systems in sequential/game-theoretic settings, I wish to create interpretable, mathematically transparent, and robust knowledge systems of inference facilitating decisions.
->
-> Strategic decision settings, entailing high-risk yet compelling explanability stemming from a melange of stochastic natural phenomena, particularly excite me. Predicting dynamics in uncertain games, economic interactions, and physical processes are prime examples.
+> <small> Pursuing research in designing & explaining intelligent systems in sequential/game-theoretic settings, I wish to create interpretable, mathematically transparent, and robust knowledge systems of inference facilitating decisions. </small>
+> <small> Strategic decision settings, entailing high-risk yet compelling explanability stemming from a melange of stochastic natural phenomena, particularly excite me. Predicting dynamics in uncertain games, economic interactions, and physical processes are prime examples.</small>
 
 ### Education
 - **Masters** at [ETH Zurich](https://ethz.ch/en.html) _in [CS \(majors: Mathematics of ML, Applied Statistics\)](https://inf.ethz.ch/)_, _2022-present_
@@ -25,8 +26,8 @@ Statistical & Sequential Learning, Optimization & Control, Game Theory, Stochast
 
 ### Work
 - **Researcher** at [Automatic Control Laboratory, ETH Zurich](https://control.ee.ethz.ch/), _2022-2024_
-- Market **data analysis** at quant firm, [Tower Research Capital](https://www.tower-research.com/), _2018-2022_
-- **Data Analyst** on customer acquisition maximization at [AmEX](https://www.americanexpress.com/en-us/careers/career-areas/risk-and-data-analytics/), _2017_
+- **Market Data Researcher** at quant firm, [Tower Research Capital](https://www.tower-research.com/), _2018-2022_
+- **Strategist** for customer acquisition maximization at [AmEX](https://www.americanexpress.com/en-us/careers/career-areas/risk-and-data-analytics/), _2017_
 
 ### NEWS!
 - **(Sept'24)** I have started my Master's Thesis on _Understanding and modeling PDEs with Randomized Neural Networks_, jointly supervised by [Dr. Jakob Heiss](https://people.math.ethz.ch/~jheiss/), [Yu Group](https://www.stat.berkeley.edu/~yugroup/), [Dept. of Statistics](https://statistics.berkeley.edu/), [UC Berkeley](https://www.berkeley.edu/), and [Dr. Beatrice Acciaio](https://people.math.ethz.ch/~beacciaio/home), [Dept. of Mathematics](https://math.ethz.ch/), [ETH Zurich](https://ethz.ch/en.html)

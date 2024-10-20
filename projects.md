@@ -37,7 +37,7 @@ Several major academic and professional projects throughout my career are broadl
 *Course Project supervised by [Vinzenz Thoma](https://scholar.google.com/citations?user=2ZT371MAAAAJ&hl=en), [Dr. Zebang Shen](https://scholar.google.com/citations?user=klqzFvgAAAAJ&hl=en), [Prof. Dr. Niao He](https://scholar.google.com/citations?user=iNcA81MAAAAJ&hl=en) at [Optimization & Decision Intelligence Group](https://odi.inf.ethz.ch/), 2023* <br><br/>
 <img src="/assets/MG.jpg" class="expimg" align="right" alt="Prisoner's Dilemma Game" width="200px" height=auto/> In a repeated Matrix Game between two optimal agents, mutual defection strategy is often an undesirable, yet the only outcome. We propose an improved learning mechanism that enforces moral conduct in these perceptive agents by promoting mutual co-operation and joint reward maximization. <br><br/>
 
-### Priors from Deep Networks for Bayesian Deep Learning<sup>[\[paper\]](https://drive.google.com/file/d/1_6mhUEmLygu4_a83CFNAgNNbZz0bKJpj/view)<sup/>
+### Priors from Deep Networks for Bayesian Deep Learning<sup>[\[best paper awarded\]](https://drive.google.com/file/d/1_6mhUEmLygu4_a83CFNAgNNbZz0bKJpj/view)<sup/>
 *Course Project supervised by [Lorenzo Noci](https://scholar.google.com/citations?user=VZ__1r0AAAAJ&hl=en), [Prof. Dr. Thomas Hofmann](https://scholar.google.co.uk/citations?user=T3hAyLkAAAAJ&hl=en) at [Data Analytics Lab](https://da.inf.ethz.ch/), 2022*  <br><br/>
 <img src="/assets/TILDA.png" class="expimg" align="right" alt="TILDA Model" width="200px" height=auto/> While deep neural networks are fundamental architectures for learning tasks, their lack of uncertainty estimation motivated us to design TILDA: a mechanism to encode information from deep networks as dirichlet priors for improved uncertainty quantification and performance in Bayesian Neural Networks. <br><br/>
 
@@ -54,7 +54,7 @@ Several major academic and professional projects throughout my career are broadl
 <!-- <br><br/> -->
 
 ### Market Data Inferences
-*Analyst at [Tower Research Capital](https://www.tower-research.com/), 2021-2022*
+*Researcher at [Tower Research Capital](https://www.tower-research.com/), 2021-2022*
 <!-- <br><br/> -->
 - Continued from [low-latency role](/work/#dev), 2018-2020
 - Periodic trade statistic and market sentiment characterization of instruments using NEWS feed, facilitating insightful long-term strategies
@@ -67,7 +67,7 @@ Several major academic and professional projects throughout my career are broadl
 
 
 ### Digital Aquisition via Fractional Attribution
-*Data Analysis at [AmEx](https://www.americanexpress.com/en-us/careers/career-areas/risk-and-data-analytics/) Market Research, 2017* <br><br/>
+*Strategist at [AmEx](https://www.americanexpress.com/en-us/careers/career-areas/risk-and-data-analytics/) Market Research, 2017* <br><br/>
 Probability of conversion of a potential customer in influence from social media, customer targetting, and referral from acquaintances, is jointly modeled under a time-decaying impact of such influence, to optimally allocate constrained funds for a *+8% in regional customer acquisition.*
 
 </div>
@@ -102,7 +102,7 @@ Probability of conversion of a potential customer in influence from social media
 <div class="content" markdown="1">
 <!-- <br><br/> -->
 
-### Aerial Road Segmentation<sup>[\[paper\]](https://drive.google.com/file/d/1a83sBnwbgoQDz1DxAJxISNfGlZVq9g5e/view?usp=sharing)<sup/>
+### Aerial Road Segmentation<sup>[\[winning paper\]](https://drive.google.com/file/d/1a83sBnwbgoQDz1DxAJxISNfGlZVq9g5e/view?usp=sharing)<sup/>
 *Course Kaggle Contest at [Data Analytics Lab](https://da.inf.ethz.ch/), 2023* <br><br/>
 <img src="/assets/passivBlock.png" class="expimg" align="left" alt="PaSSIV Model Block" width="200px" height=auto/> <img src="/assets/passivModel.png" class="expimg" align="right" alt="PaSSIV Model" width="200px" height=auto/> Given, identification of roads from aerial satelite-view images is far from completely solved, we achieved the 3<sup>rd</sup> highest Kaggle score for it in ETH history. Additionally, I formulated a novel neural operator (Section D.4) that enables Transformers to better identify complex graph-like road geometry even in data scarcity.<br><br/>
 
