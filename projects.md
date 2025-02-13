@@ -62,6 +62,7 @@ Several major academic and professional projects throughout my career are broadl
 - Inhouse trade book level construction, gauging correlation between book levels, during communication failure with exchanges
 - Lossy book (modeled as a matrix) compression and reconstruction for low-cost and fast transport between colocation and strategy boxes worldwide; faster by 200 ns
 - Regrouping instruments on volatility based on initial incoming trades from basis instruments
+- Implied crypto/currency-pair, phase-segmented rapid stock trajectory, commodity valuation via economic imbalance – pricing mechanisms, driving strategies across segments; mid/high freq.
 - Live strategy monitoring and performance evaluation on deviation from historical sim metrics
 - Managing a team of 3 in MD analysis
 

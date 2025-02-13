@@ -27,9 +27,11 @@ Statistical & Sequential Learning, Optimization & Control, Game Theory, Stochast
 ### Work
 - **Researcher** at [Automatic Control Laboratory, ETH Zurich](https://control.ee.ethz.ch/), _2022-2024_
 - **Market Data Researcher** at quant firm, [Tower Research Capital](https://www.tower-research.com/), _2018-2022_
-- **Strategist** for customer acquisition maximization at [AmEX](https://www.americanexpress.com/en-us/careers/career-areas/risk-and-data-analytics/), _2017_
+- **Analyst** for customer acquisition maximization at [AmEX](https://www.americanexpress.com/en-us/careers/career-areas/risk-and-data-analytics/), _2017_
 
 ### NEWS!
+- **(Jan'25)** Invited Reviewer at **IEEE Journal**, [Network Science and Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902)!
+- **(Dec'24)** Presenting at [NeurIPS'24](https://neurips.cc/); En'route to Vancouver!
 - **(Sept'24)** I have started my Master's Thesis on _Understanding and modeling PDEs with Randomized Neural Networks_, jointly supervised by [Dr. Jakob Heiss](https://people.math.ethz.ch/~jheiss/), [Yu Group](https://www.stat.berkeley.edu/~yugroup/), [Dept. of Statistics](https://statistics.berkeley.edu/), [UC Berkeley](https://www.berkeley.edu/), and [Dr. Beatrice Acciaio](https://people.math.ethz.ch/~beacciaio/home), [Dept. of Mathematics](https://math.ethz.ch/), [ETH Zurich](https://ethz.ch/en.html)
 - **(Sept'24)** My work on [Combinatorial Optimization under Randomness promoting Social Fairness](https://arxiv.org/abs/2406.17736v1) is accepted at [NeuirIPS'24](https://neurips.cc/)! Excieted to meet other acceptances at Vancouver, Dec'24!
 - **(Nov'22)** I have joined [Advanced Control Laboratory, ETH Zurich](https://control.ee.ethz.ch/) as a student researcher to work with [Nicolas Lanzetti](https://scholar.google.ch/citations?user=gWJV1rQAAAAJ&hl=en), [Dr. Pasquale](https://scholar.google.com/citations?user=61JYIhYAAAAJ&hl=it), and [Dr. Dörfler](https://scholar.google.com/citations?user=P2kxZ3MAAAAJ&hl=en) on _Controlling information diffusion in random combinatorial space via probability density modulation_
